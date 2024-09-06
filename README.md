@@ -6,24 +6,19 @@
 
 <ul>
   <li>
-    <h3 id="sign-up--sign-in">Sign up / Sign in</h3>
-    <p>Complete user authentication system, allowing users to register, log in, and manage profiles.</p>
+    <h3 id="sign-up--sign-in">Sign up / Sign in: Complete user authentication system, allowing users to register, log in, and manage profiles.</h3>
   </li>
   <li>
-    <h3 id="product-browsing">Product Browsing</h3>
-    <p>Foundation of the e-commerce system, supporting product browsing, searching, and purchasing.</p>
+    <h3 id="product-browsing">Product Browsing: Foundation of the e-commerce system, supporting product browsing, searching, and purchasing.</h3>
   </li>
   <li>
-    <h3 id="shopping-cart">Shopping Cart</h3>
-    <p>Intuitive shopping cart allowing users to add, remove, and update items before checkout.</p>
+    <h3 id="shopping-cart">Shopping Cart: Intuitive shopping cart allowing users to add, remove, and update items before checkout.</h3>
   </li>
   <li>
-    <h3 id="secure-checkout">Secure Checkout</h3>
-    <p>Integrated Stripe to securely process payments, ensuring a smooth checkout experience with support for multiple currencies.</p>
+    <h3 id="secure-checkout">Secure Checkout: Integrated Stripe to securely process payments, ensuring a smooth checkout experience with support for multiple currencies.</h3>
   </li>
   <li>
-    <h3 id="discount-codes">Discount Codes</h3>
-    <p>Support for discount and promotional codes, allowing users to apply special deals at checkout.</p>
+    <h3 id="discount-codes">Discount Codes: Support for discount and promotional codes, allowing users to apply special deals at checkout.</h3>
   </li>
 </ul>
 
@@ -31,16 +26,13 @@
 
 <ul>
   <li>
-    <h3 id="product-management">Product Management</h3>
-    <p>Admins can create, update, and manage products and categories easily through the platform.</p>
+    <h3 id="product-management">Product Management: Admins can create, update, and manage products and categories easily through the platform.</h3>
   </li>
   <li>
-    <h3 id="admin-dashboard">Admin Dashboard</h3>
-    <p>A dedicated dashboard for administrators to manage users, products, orders, and perform various administrative tasks.</p>
+    <h3 id="admin-dashboard">Admin Dashboard: A dedicated dashboard for administrators to manage users, products, orders, and perform various administrative tasks.</h3>
   </li>
   <li>
-    <h3 id="analytics">Analytics</h3>
-    <p>Visual sales data analytics to monitor performance, conversion rates, and other business metrics.</p>
+    <h3 id="analytics">Analytics: Visual sales data analytics to monitor performance, conversion rates, and other business metrics.</h3>
   </li>
 </ul>
 
@@ -48,24 +40,19 @@
 
 <ul>
   <li>
-    <h3 id="authentication">Authentication</h3>
-    <p>Token-based authentication with JWT for session management, providing both access and refresh tokens.</p>
+    <h3 id="authentication">Authentication: Token-based authentication with JWT for session management, providing both access and refresh tokens.</h3>
   </li>
   <li>
-    <h3 id="database">Database</h3>
-    <p>Integrated MongoDB as the primary database with Redis for caching to improve performance and handle large-scale operations.</p>
+    <h3 id="database">Database: Integrated MongoDB as the primary database with Redis for caching to improve performance and handle large-scale operations.</h3>
   </li>
   <li>
-    <h3 id="responsive-design">Responsive Design</h3>
-    <p>Clean, responsive, and customizable design using Tailwind CSS to ensure a great user experience across devices.</p>
+    <h3 id="responsive-design">Responsive Design: Clean, responsive, and customizable design using Tailwind CSS to ensure a great user experience across devices.</h3>
   </li>
   <li>
-    <h3 id="performance-optimization">Performance Optimization</h3>
-    <p>Using Redis to improve the performance of frequently accessed data, reducing load times.</p>
+    <h3 id="performance-optimization">Performance Optimization: Using Redis to improve the performance of frequently accessed data, reducing load times.</h3>
   </li>
   <li>
-    <h3 id="image-management">Image Management</h3>
-    <p>Integrated Cloudinary for efficient storage and delivery of product images.</p>
+    <h3 id="image-management">Image Management: Integrated Cloudinary for efficient storage and delivery of product images.</h3>
   </li>
 </ul>
 
@@ -73,36 +60,28 @@
 
 <ul>
   <li>
-    <h3 id="frontend">Frontend</h3>
-    <p><strong>React</strong>, <strong>Redux</strong></p>
+    <h3 id="frontend">Frontend: <strong>React</strong>, <strong>Redux</strong></h3>
   </li>
   <li>
-    <h3 id="backend">Backend</h3>
-    <p><strong>Node.js</strong>, <strong>Express.js</strong></p>
+    <h3 id="backend">Backend: <strong>Node.js</strong>, <strong>Express.js</strong></h3>
   </li>
   <li>
-    <h3 id="authentication-1">Authentication</h3>
-    <p><strong>JWT (JSON Web Tokens)</strong></p>
+    <h3 id="authentication-1">Authentication: <strong>JWT (JSON Web Tokens)</strong></h3>
   </li>
   <li>
-    <h3 id="database-1">Database</h3>
-    <p><strong>MongoDB</strong></p>
+    <h3 id="database-1">Database: <strong>MongoDB</strong></h3>
   </li>
   <li>
-    <h3 id="caching">Caching</h3>
-    <p><strong>Redis</strong></p>
+    <h3 id="caching">Caching: <strong>Redis</strong></h3>
   </li>
   <li>
-    <h3 id="payment-processing">Payment Processing</h3>
-    <p><strong>Stripe</strong></p>
+    <h3 id="payment-processing">Payment Processing: <strong>Stripe</strong></h3>
   </li>
   <li>
-    <h3 id="image-storage">Image Storage</h3>
-    <p><strong>Cloudinary</strong></p>
+    <h3 id="image-storage">Image Storage: <strong>Cloudinary</strong></h3>
   </li>
   <li>
-    <h3 id="css-framework">CSS Framework</h3>
-    <p><strong>Tailwind CSS</strong></p>
+    <h3 id="css-framework">CSS Framework: <strong>Tailwind CSS</strong></h3>
   </li>
 </ul>
 
