@@ -36,26 +36,6 @@
   </li>
 </ul>
 
-<h2 id="technical-features">Technical Features</h2>
-
-<ul>
-  <li>
-    <h4 id="authentication">Authentication: Token-based authentication with JWT for session management, providing both access and refresh tokens.</h4>
-  </li>
-  <li>
-    <h4 id="database">Database: Integrated MongoDB as the primary database with Redis for caching to improve performance and handle large-scale operations.</h4>
-  </li>
-  <li>
-    <h4 id="responsive-design">Responsive Design: Clean, responsive, and customizable design using Tailwind CSS to ensure a great user experience across devices.</h4>
-  </li>
-  <li>
-    <h4 id="performance-optimization">Performance Optimization: Using Redis to improve the performance of frequently accessed data, reducing load times.</h4>
-  </li>
-  <li>
-    <h4 id="image-management">Image Management: Integrated Cloudinary for efficient storage and delivery of product images.</h4>
-  </li>
-</ul>
-
 <h2 id="tech-stack">Tech Stack</h2>
 
 <ul>
