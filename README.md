@@ -66,6 +66,7 @@
 </ul>
 
 ### Getting Started
+
 ```bash
 PORT=5000
 MONGO_URI=your_mongo_uri
@@ -96,5 +97,15 @@ npm run build
 npm run start
 ```
 
-### ScreenShots
+### Screenshots
 
+<a href="./frontend//public/ss1.png"><img src="./frontend//public/ss1.png" alt="Image Description"></a>
+<a href="./frontend//public/ss2.png"><img src="./frontend//public/ss2.png" alt="Image Description"></a>
+<a href="./frontend//public/ss3.png"><img src="./frontend//public/ss3.png" alt="Image Description"></a>
+<a href="./frontend//public/ss4.png"><img src="./frontend//public/ss4.png" alt="Image Description"></a>
+<a href="./frontend//public/ss5.png"><img src="./frontend//public/ss5.png" alt="Image Description"></a>
+<a href="./frontend//public/ss6.png"><img src="./frontend//public/ss6.png" alt="Image Description"></a>
+<a href="./frontend//public/ss7.png"><img src="./frontend//public/ss7.png" alt="Image Description"></a>
+<a href="./frontend//public/ss8.png"><img src="./frontend//public/ss8.png" alt="Image Description"></a>
+<a href="./frontend//public/ss9.png"><img src="./frontend//public/ss9.png" alt="Image Description"></a>
+<a href="./frontend//public/ss10.png"><img src="./frontend//public/ss10.png" alt="Image Description"></a>
