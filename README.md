@@ -1,4 +1,4 @@
-<h1 align="center">E-Commerce Store</h1>
+<h1 align="center">EverCart: E-Commerce Store</h1>
 
 <p>EverCart is a robust e-commerce platform that provides a seamless shopping experience for users and powerful management tools for administrators. With a modern tech stack and comprehensive features, EverCart offers a scalable solution for online retail.</p>
 
