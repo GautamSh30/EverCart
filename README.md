@@ -56,6 +56,35 @@
   </li>
 </ul>
 
+<h2 id="tech-stack">Tech Stack</h2>
+
+<ul>
+  <li>
+    <h4 id="frontend">Frontend: <strong>React</strong>, <strong>Redux</strong></h4>
+  </li>
+  <li>
+    <h4 id="backend">Backend: <strong>Node.js</strong>, <strong>Express.js</strong></h4>
+  </li>
+  <li>
+    <h4 id="authentication-1">Authentication: <strong>JWT (JSON Web Tokens)</strong></h4>
+  </li>
+  <li>
+    <h4 id="database-1">Database: <strong>MongoDB</strong></h4>
+  </li>
+  <li>
+    <h4 id="caching">Caching: <strong>Redis</strong></h4>
+  </li>
+  <li>
+    <h4 id="payment-processing">Payment Processing: <strong>Stripe</strong></h4>
+  </li>
+  <li>
+    <h4 id="image-storage">Image Storage: <strong>Cloudinary</strong></h4>
+  </li>
+  <li>
+    <h4 id="css-framework">CSS Framework: <strong>Tailwind CSS</strong></h4>
+  </li>
+</ul>
+
 ### Getting Started
 ```bash
 PORT=5000
