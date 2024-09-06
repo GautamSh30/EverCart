@@ -95,3 +95,16 @@ npm run build
 ```shell
 npm run start
 ```
+
+### ScreenShots
+
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss1.png
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss2.png
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss3.png
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss4.png
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss5.png
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss6.png
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss7.png
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss8.png
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss9.png
+C:\Users\GAUTAM\OneDrive\Desktop\mern-ecommerce-master\mern-ecommerce-master\frontend\public\ss10.png
