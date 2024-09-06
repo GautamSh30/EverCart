@@ -101,6 +101,8 @@ npm run start
 
 <a href="./frontend//public/ss1.png"><img src="./frontend//public/ss1.png" alt="Image Description"></a>
 <a href="./frontend//public/ss2.png"><img src="./frontend//public/ss2.png" alt="Image Description"></a>
+<a href="./frontend//public/ss11.png"><img src="./frontend//public/ss11.png" alt="Image Description"></a>
+<a href="./frontend//public/ss12.png"><img src="./frontend//public/ss12.png" alt="Image Description"></a>
 <a href="./frontend//public/ss3.png"><img src="./frontend//public/ss3.png" alt="Image Description"></a>
 <a href="./frontend//public/ss4.png"><img src="./frontend//public/ss4.png" alt="Image Description"></a>
 <a href="./frontend//public/ss5.png"><img src="./frontend//public/ss5.png" alt="Image Description"></a>
