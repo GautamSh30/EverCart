@@ -14,7 +14,7 @@ Product Management: Admins can create, update, and manage products and categorie
 Admin Dashboard: A dedicated dashboard for administrators to manage users, products, orders, and perform various administrative tasks.
 Analytics: Visual sales data analytics to monitor performance, conversion rates, and other business metrics.
 
-Technical Features
+### Technical Features
 
 Authentication: Token-based authentication with JWT for session management, providing both access and refresh tokens.
 Database: Integrated MongoDB as the primary database with Redis for caching to improve performance and handle large-scale operations.
